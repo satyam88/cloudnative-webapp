@@ -11,9 +11,9 @@
 	<groupId>com.cloudnative-webapp</groupId>
 	<artifactId>cloudnative-webapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>cloudnative-webapp</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot Java App</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
